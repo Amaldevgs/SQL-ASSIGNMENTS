@@ -1,2 +1,2 @@
 # SQL-Assignments
-SQL Assignments
+This repository contains SQL Assignments.
